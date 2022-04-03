@@ -1,10 +1,9 @@
 👋 Hi, I’m @karasuma
 
-Do you guess where I'm accessing from? 
-It's true that I'm living in Japan, but this country has mysterious place who hid it. 
-I'm something not human who living in this place's mountain. 
-I like this place. Please come to here if you come to Japan.<br>
-Here accepts everything. and that's cruel, cruel thing.
+Location: Somewhere in Gensokyo, Japan
+Favorite teas: Sayama-cha (狭山茶, Japanese tea), Shi Suo Yun (石锁云, Fujian oolong tea), Cui Yu (翠玉, Taiwan oolong tea)
+Admiring person: Saito Ryokuu ( https://en.wikipedia.org/wiki/Sait%C5%8D_Ryokuu )<br>
+Favorite aphorism: Applause is the way to make persons fool, Clap hard, Cheer hard, They will make themselves a mistake. (眼前口頭)<br>
 
 <!---
 karasuma/karasuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
